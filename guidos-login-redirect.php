@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Guido's Login Redirect
- * Plugin URI:        http://nordique.test
+ * Plugin URI:        https://www.linkedin.com/in/guido-cnossen-2110a3170/
  * Description:       Deze plugin zorgt ervoor dat de site alleen toegankelijk is voor ingelogde gebruikers. Alle niet ingelogde gebruikers worden geredirect naar de login-pagina.
  * Version:           1.0.0
  * Author:            Guido
