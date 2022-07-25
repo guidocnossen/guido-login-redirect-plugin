@@ -1,1 +1,1 @@
-# guido-login-redirect-plugin
+=== Guidos login redirect plugin ===
